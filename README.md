@@ -1,6 +1,6 @@
 # Assignment 01
 
-In this assignment, there are two parts, each covering four types of multi-armed bandit algorithms. Therefore, there are two separate .ipynb notebook files—one for each part.
+In this assignment, there are two parts, each covering four types of multi-armed bandit algorithms. Therefore, there are two separate .ipynb notebook files, one for each part.
 
 ## How to Run the Code
 
